@@ -15,6 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+# 🔋 About Me
 <span class='anchor' id='about-me'></span>
 
 I will be pursuing a **PhD in Mathematics and Statistics** at **The University of New South Wales (UNSW Sydney)**, supervised by **Prof. Huadong Mo** and **Prof. Ziyang Lyu**.
