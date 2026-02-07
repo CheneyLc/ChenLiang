@@ -1,25 +1,25 @@
 # main links
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "#about-me"
 
   - title: "Education"
-    url: "/#-xsbj"
+    url: "#-xsbj"
 
   - title: "Publications & Patents"
-    url: "/#-lwzl"
+    url: "#-lwzl"
 
   - title: "Honors & Awards"
-    url: "/#-ryjx"
+    url: "#-ryjx"
 
   - title: "Professional Experience"
-    url: "/#-gzjy"
+    url: "#-gzjy"
 
   - title: "Research Experience"
-    url: "/#-kyjl"
+    url: "#-kyjl"
 
   - title: "Academic Service"
-    url: "/#-sg"
+    url: "#-sg"
 
   - title: "Skills"
-    url: "/#-jn"
+    url: "#-jn"
