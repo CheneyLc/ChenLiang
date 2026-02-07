@@ -47,7 +47,7 @@ My research interests include:
   - Optimized **SoC estimation** strategies for hybrid electric vehicles using extended Kalman filter (EKF)–based algorithms  
   - Participated in R&D of large-scale cloud-based battery health monitoring platforms and battery testing
 
-<span class='anchor' id='-kyxm'></span>
+<span class='anchor' id='-kyjl'></span>
 
 # 🔬 Research Experience
 - *Oct. 2025 – Present*, Research Assistant, **Revolutionary AI-Enabled Modular Power Portal System for Urban Clean Energy Distribution**  
@@ -69,26 +69,20 @@ My research interests include:
 
 ## Journal Papers
 ---
-- **[J7]** **C. Liang**, S. Tao, et al. *Stochastic state-of-health estimation for lithium-ion batteries with automated feature fusion using quantum convolutional neural networks.* **Journal of Energy Chemistry**, 106 (2025) 205–219.  
-  [[Link]](https://doi.org/10.1016/j.jechem.2025.02.030)
+- **[J7]** **C. Liang**, S. Tao, et al. *Stochastic state-of-health estimation for lithium-ion batteries with automated feature fusion using quantum convolutional neural networks.* **Journal of Energy Chemistry**, 106 (2025) 205–219. [[Link]](https://doi.org/10.1016/j.jechem.2025.02.030)
 
-- **[J6]** **C. Liang**, B. Xia, et al. *A quantum particle swarm optimization extended Kalman quantum particle filter approach for state-of-charge estimation of lithium-ion batteries.* **Journal of Energy Storage**, 100 (2024) 113677.  
-  [[Link]](https://doi.org/10.1016/j.est.2024.113677)
+- **[J6]** **C. Liang**, B. Xia, et al. *A quantum particle swarm optimization extended Kalman quantum particle filter approach for state-of-charge estimation of lithium-ion batteries.* **Journal of Energy Storage**, 100 (2024) 113677. [[Link]](https://doi.org/10.1016/j.est.2024.113677)
 
-- **[J5]** X. Huang, **C. Liang**, S. Tao, et al. *IC2ML: Unified battery state-of-health, degradation trajectory, and remaining useful life prediction via intra- and inter-cycle enhanced machine learning.* **Journal of Power Sources**, (2026) 239148.  
-  [[Link]](https://doi.org/10.1016/j.jpowsour.2025.239148)
+- **[J5]** X. Huang, **C. Liang**, S. Tao, et al. *IC2ML: Unified battery state-of-health, degradation trajectory, and remaining useful life prediction via intra- and inter-cycle enhanced machine learning.* **Journal of Power Sources**, (2026) 239148. [[Link]](https://doi.org/10.1016/j.jpowsour.2025.239148)
 
 - **[J4]** X. Huang, S. Tao, **C. Liang**, et al. *Robust and generalizable lithium-ion battery health estimation using multi-scale field data decomposition and fusion.*  
-  **Journal of Power Sources**, (2025) 236939.  
-  [[Link]](https://doi.org/10.1016/j.jpowsour.2025.236939)
+  **Journal of Power Sources**, (2025) 236939. [[Link]](https://doi.org/10.1016/j.jpowsour.2025.236939)
 
 - **[J3]** H. Hu, **C. Liang**, X. Huang, H. Mo, S. Tao, et al. *ONET: Operator network for randomized and robust battery health estimation using operation condition and cycling data matching.* **Journal of Power Sources** (Accepted)
 
-- **[J2]** S. Yue, B. Xia, **C. Liang**, et al. *Temperature-considered active balancing strategy for lithium-ion battery packs with surrogate optimization algorithms.* **Journal of Energy Storage**, 108 (2025) 115073.  
-  [[Link]](https://doi.org/10.1016/j.est.2024.115073)
+- **[J2]** S. Yue, B. Xia, **C. Liang**, et al. *Temperature-considered active balancing strategy for lithium-ion battery packs with surrogate optimization algorithms.* **Journal of Energy Storage**, 108 (2025) 115073. [[Link]](https://doi.org/10.1016/j.est.2024.115073)
 
-- **[J1]** B. Xia, H. Fu, Z. Qin, **C. Liang**. *Optimization of battery state-of-charge estimation by correcting available capacity.* **Journal of Energy Storage**, 116 (2025) 116065.  
-  [[Link]](https://doi.org/10.1016/j.est.2025.116065)
+- **[J1]** B. Xia, H. Fu, Z. Qin, **C. Liang**. *Optimization of battery state-of-charge estimation by correcting available capacity.* **Journal of Energy Storage**, 116 (2025) 116065. [[Link]](https://doi.org/10.1016/j.est.2025.116065)
 
 ## Submitted Papers
 - **[S3]** **C. Liang**, S. Tao, Z. Lyu, H. Mo, et al. *Patterns in an Electrical Whisper: History-Free Generative Transfer Learning for Second-Life Battery Revival.* Submitted to **Patterns**
@@ -98,11 +92,9 @@ My research interests include:
 - **[S1]** H. Hu, S. Tao, **C. Liang**, et al. *Robust and privacy-preserving classification of retired batteries via expert-weighted federated machine learning.* Submitted to **eTransportation**
 
 ## Patents
-- **[P2]** Protective device for distance measurement on large transport vehicles (CN202110693693.7)  
-  [[Link]](https://d.wanfangdata.com.cn/patent/Ch1QYXRlbnROZXdTb2xyOVMyMDI2MDEyNzE1NTEzORIpWkxfQ04yMDIxMTA2OTM2OTMuN19DTjExMzMzNTE4OEJfMjAyNTAzMTQaCG1naXlud2Nx)
+- **[P2]** Protective device for distance measurement on large transport vehicles (CN202110693693.7) [[Link]](https://d.wanfangdata.com.cn/patent/Ch1QYXRlbnROZXdTb2xyOVMyMDI2MDEyNzE1NTEzORIpWkxfQ04yMDIxMTA2OTM2OTMuN19DTjExMzMzNTE4OEJfMjAyNTAzMTQaCG1naXlud2Nx)
 
-- **[P1]** Shock-absorbing anti-fall walking cane (CN202310276661.6)  
-  [[Link]](https://d.wanfangdata.com.cn/patent/Ch1QYXRlbnROZXdTb2xyOVMyMDI2MDEyNzE1NTEzORIpWkxfQ04yMDIzMTAyNzY2NjEuNl9DTjExNjI3MDE1M0JfMjAyNTA5MTYaCGJodmJ6a2Jl)
+- **[P1]** Shock-absorbing anti-fall walking cane (CN202310276661.6) [[Link]](https://d.wanfangdata.com.cn/patent/Ch1QYXRlbnROZXdTb2xyOVMyMDI2MDEyNzE1NTEzORIpWkxfQ04yMDIzMTAyNzY2NjEuNl9DTjExNjI3MDE1M0JfMjAyNTA5MTYaCGJodmJ6a2Jl)
 
 <span class='anchor' id='-ryjx'></span>
 
@@ -112,7 +104,7 @@ My research interests include:
 - *Dec. 2019* Tuopu NVH Scholarship, Hefei University of Technology
 - *Dec. 2019* Second Prize Scholarship, Hefei University of Technology
 
-<span class='anchor' id='-fw'></span>
+<span class='anchor' id='-sg'></span>
 
 # 🧑‍🏫 Academic Service
 - **Reviewer**: Nature Communications (Early Career Researcher), Journal of Energy Storage, Journal of Energy Chemistry, Measurement, IEEE TTE
