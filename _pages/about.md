@@ -27,7 +27,7 @@ My research interests include:
 - **Prognostics and Health Management (PHM)**: health assessment and lifetime prediction of second-life batteries
 - **Quantum Computing for Batteries**: quantum models and quantum optimization for battery applications
 
-<span class='anchor' id='-xl'></span>
+<span class='anchor' id='-xsbj'></span>
 
 # 🎓 Academic Background
 - *Sep. 2022 – Jul. 2025*, **Tsinghua University**, M.Eng. in Mechanical Engineering  
