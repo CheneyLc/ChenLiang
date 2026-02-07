@@ -8,7 +8,9 @@
 # Site Settings
 title                    : "ChenLiang 梁宸"
 description              : "AI4Batt"
-repository               : "tangjyan/tangjyan.github.io"
+url: "https://cheneylc.github.io"
+baseurl: "/ChenLiang"
+repository: "cheneylc/ChenLiang"
 google_scholar_stats_use_cdn : false
 
 # google analytics
