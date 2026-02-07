@@ -76,8 +76,7 @@ My research interests include:
 
 - **[J5]** X. Huang, **C. Liang**, S. Tao, et al. *IC2ML: Unified battery state-of-health, degradation trajectory, and remaining useful life prediction via intra- and inter-cycle enhanced machine learning.* **Journal of Power Sources**, (2026) 239148. [[Link]](https://doi.org/10.1016/j.jpowsour.2025.239148)
 
-- **[J4]** X. Huang, S. Tao, **C. Liang**, et al. *Robust and generalizable lithium-ion battery health estimation using multi-scale field data decomposition and fusion.*  
-  **Journal of Power Sources**, (2025) 236939. [[Link]](https://doi.org/10.1016/j.jpowsour.2025.236939)
+- **[J4]** X. Huang, S. Tao, **C. Liang**, et al. *Robust and generalizable lithium-ion battery health estimation using multi-scale field data decomposition and fusion.* **Journal of Power Sources**, (2025) 236939. [[Link]](https://doi.org/10.1016/j.jpowsour.2025.236939)
 
 - **[J3]** H. Hu, **C. Liang**, X. Huang, H. Mo, S. Tao, et al. *ONET: Operator network for randomized and robust battery health estimation using operation condition and cycling data matching.* **Journal of Power Sources** (Accepted)
 
@@ -86,11 +85,11 @@ My research interests include:
 - **[J1]** B. Xia, H. Fu, Z. Qin, **C. Liang**. *Optimization of battery state-of-charge estimation by correcting available capacity.* **Journal of Energy Storage**, 116 (2025) 116065. [[Link]](https://doi.org/10.1016/j.est.2025.116065)
 
 ## Submitted Papers
-- **[S3]** **C. Liang**, S. Tao, Z. Lyu, H. Mo, et al. *Patterns in an Electrical Whisper: History-Free Generative Transfer Learning for Second-Life Battery Revival.* Submitted to **Patterns**
+- **[S3]** **C. Liang**, S. Tao, Z. Lyu, H. Mo, et al. *Patterns in an Electrical Whisper: History-Free Generative Transfer Learning for Second-Life Battery Revival.* Submitted 
 
-- **[S2]** X. Huang, S. Tao, **C. Liang**, et al. *PIMOE: Physically interpretable mixture-of-experts network for battery degradation trajectory prediction amid second-life complexities.* Under review at **Nature Communications**
+- **[S2]** X. Huang, S. Tao, **C. Liang**, et al. *PIMOE: Physically interpretable mixture-of-experts network for battery degradation trajectory prediction amid second-life complexities.* Under review
 
-- **[S1]** H. Hu, S. Tao, **C. Liang**, et al. *Robust and privacy-preserving classification of retired batteries via expert-weighted federated machine learning.* Submitted to **eTransportation**
+- **[S1]** H. Hu, S. Tao, **C. Liang**, et al. *Robust and privacy-preserving classification of retired batteries via expert-weighted federated machine learning.* Submitted
 
 ## Patents
 - **[P2]** Protective device for distance measurement on large transport vehicles (CN202110693693.7) [[Link]](https://d.wanfangdata.com.cn/patent/Ch1QYXRlbnROZXdTb2xyOVMyMDI2MDEyNzE1NTEzORIpWkxfQ04yMDIxMTA2OTM2OTMuN19DTjExMzMzNTE4OEJfMjAyNTAzMTQaCG1naXlud2Nx)
